@@ -34,6 +34,20 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 ###
 
+### MySql
+
+- #### MySql installation on Ubuntu
+      you can follow this link to install MySql on ubuntu linux
+      https://linuxconfig.org/install-and-configure-mysql-workbench-on-ubuntu-linux OR https://dev.mysql.com/doc/refman/8.0/en/linux-installation.html
+
+- #### MySql installation on Windows
+  https://dev.mysql.com/doc/refman/8.0/en/windows-installation.html
+
+- #### MySql installation on MacOS
+      https://dev.mysql.com/doc/refman/8.0/en/osx-installation.html
+
+###
+
 ## Install
 
     $ git clone https://github.com/KetkiR/feature-feeds.git
