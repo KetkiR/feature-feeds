@@ -38,6 +38,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
     $ git clone https://github.com/KetkiR/feature-feeds.git
     $ cd feature-feeds
+    $ npm install
 
 ## Configure app
 
